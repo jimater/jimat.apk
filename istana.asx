@@ -6,16 +6,4 @@
 <REF HREF="http://128.199.94.211:8000/istana" />
 </ENTRY>
 
-<ENTRY>
-<TITLE>Radio Istana FM Bojonegoro</TITLE>
-<ABSTRACT>http://128.199.94.211:8000/istana.m3u</ABSTRACT>
-<REF HREF="http://128.199.94.211:8000/istana.m3u" />
-</ENTRY>
-
-<ENTRY>
-<TITLE>Radio Istana FM Bojonegoro</TITLE>
-<ABSTRACT>http://128.199.94.211:8000/istana.xspf</ABSTRACT>
-<REF HREF="http://128.199.94.211:8000/istana.xspf" />
-</ENTRY>
-
 </ASX>
