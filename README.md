@@ -1,1 +1,2 @@
-# jimat.apk
+Cerita Misteri Jimat
+Available on Play Store
