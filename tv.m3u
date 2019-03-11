@@ -60,3 +60,198 @@ http://103.76.14.102:9026/livee/mpegts/oxygen360/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,INDOSIAR
+http://209.58.177.31:8081/live/gratis/untuk_semua/1.ts
+
+#EXTINF:-1,MNCTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/2.ts
+
+#EXTINF:-1,SCTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/3.ts
+
+#EXTINF:-1,ANTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/4.ts
+
+#EXTINF:-1,RCTI
+http://209.58.177.31:8081/live/gratis/untuk_semua/5.ts
+
+#EXTINF:-1,GTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/6.ts
+
+#EXTINF:-1,TRANS7
+http://209.58.177.31:8081/live/gratis/untuk_semua/7.ts
+
+#EXTINF:-1,TRANSTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/8.ts
+
+#EXTINF:-1,METROTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/9.ts
+
+#EXTINF:-1,TVONE
+http://209.58.177.31:8081/live/gratis/untuk_semua/10.ts
+
+#EXTINF:-1,TVONE HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/66.ts
+
+#EXTINF:-1,Dangdutz
+http://209.58.177.31:8081/live/gratis/untuk_semua/30.ts
+
+#EXTINF:-1,NET
+http://209.58.177.31:8081/live/gratis/untuk_semua/11.ts
+
+#EXTINF:-1,NET HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/69.ts
+
+#EXTINF:-1,KOMPASTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/12.ts
+
+#EXTINF:-1,CNN INDONESIA HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/13.ts
+
+#EXTINF:-1,TVRI
+http://209.58.177.31:8081/live/gratis/untuk_semua/14.ts
+
+#EXTINF:-1,INEWSTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/15.ts
+
+#EXTINF:-1,BERITASATU
+http://209.58.177.31:8081/live/gratis/untuk_semua/16.ts
+
+#EXTINF:-1,RTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/17.ts
+
+#EXTINF:-1,DISNEY JUNIOR
+http://209.58.177.31:8081/live/gratis/untuk_semua/57.ts
+
+#EXTINF:-1,beIN1
+http://209.58.177.31:8081/live/gratis/untuk_semua/18.ts
+
+#EXTINF:-1,beIN2
+http://209.58.177.31:8081/live/gratis/untuk_semua/19.ts
+
+#EXTINF:-1,beIN3
+http://209.58.177.31:8081/live/gratis/untuk_semua/20.ts
+
+#EXTINF:-1,Foxsport1
+http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
+
+#EXTINF:-1,Foxsport2
+http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
+
+#EXTINF:-1,Foxsport3
+http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
+
+#EXTINF:-1,NatGeo
+http://209.58.177.31:8081/live/gratis/untuk_semua/24.ts
+
+#EXTINF:-1,NatGeoPeople
+http://209.58.177.31:8081/live/gratis/untuk_semua/25.ts
+
+#EXTINF:-1,NatGeoWild
+http://209.58.177.31:8081/live/gratis/untuk_semua/26.ts
+
+#EXTINF:-1,Tmusic
+http://209.58.177.31:8081/live/gratis/untuk_semua/27.ts
+
+#EXTINF:-1,Pramborstv
+http://209.58.177.31:8081/live/gratis/untuk_semua/28.ts
+
+#EXTINF:-1,Clubbing TV
+http://209.58.177.31:8081/live/gratis/untuk_semua/59.ts
+
+#EXTINF:-1,AXN
+http://209.58.177.31:8081/live/gratis/untuk_semua/29.ts
+
+#EXTINF:-1,THRILL
+http://209.58.177.31:8081/live/gratis/untuk_semua/50.ts
+
+#EXTINF:-1,FIGHT SPORTS
+http://209.58.177.31:8081/live/gratis/untuk_semua/51.ts
+
+#EXTINF:-1,CELESTIAL MOVIES
+http://209.58.177.31:8081/live/gratis/untuk_semua/49.ts
+
+#EXTINF:-1,KIX
+http://209.58.177.31:8081/live/gratis/untuk_semua/48.ts
+
+#EXTINF:-1,ZEEBIOSKOP
+http://209.58.177.31:8081/live/gratis/untuk_semua/47.ts
+
+#EXTINF:-1,ANIPLUS
+http://209.58.177.31:8081/live/gratis/untuk_semua/46.ts
+
+#EXTINF:-1,CinemaWorld
+http://209.58.177.31:8081/live/gratis/untuk_semua/45.ts
+
+#EXTINF:-1,HITS
+http://209.58.177.31:8081/live/gratis/untuk_semua/44.ts
+
+#EXTINF:-1,SONY CHANNEL
+http://209.58.177.31:8081/live/gratis/untuk_semua/43.ts
+
+#EXTINF:-1,SUPER SOCCERTV
+http://209.58.177.31:8081/live/gratis/untuk_semua/53.ts
+
+#EXTINF:-1,SONY ONE
+http://209.58.177.31:8081/live/gratis/untuk_semua/52.ts
+
+#EXTINF:-1,MY CINEMA
+http://209.58.177.31:8081/live/gratis/untuk_semua/55.ts
+
+#EXTINF:-1,Blue Ant Extreme
+http://209.58.177.31:8081/live/gratis/untuk_semua/54.ts
+
+#EXTINF:-1,DIVA
+http://209.58.177.31:8081/live/gratis/untuk_semua/56.ts
+
+#EXTINF:-1,TVRI Sport
+http://209.58.177.31:8081/live/gratis/untuk_semua/58.ts
+
+#EXTINF:-1,FOODIE
+http://209.58.177.31:8081/live/gratis/untuk_semua/68.ts
+
+#EXTINF:-1,Liga NOS
+http://209.58.177.31:8081/live/gratis/untuk_semua/67.ts
+
+#EXTINF:-1,SETANTA SPORT
+http://209.58.177.31:8081/live/gratis/untuk_semua/62.ts
+
+#EXTINF:-1,SETANTA SPORT+
+http://209.58.177.31:8081/live/gratis/untuk_semua/63.ts
+
+#EXTINF:-1,ASTRO SPORT
+http://209.58.177.31:8081/live/gratis/untuk_semua/61.ts
+
+#EXTINF:-1,ESPN
+http://209.58.177.31:8081/live/gratis/untuk_semua/60.ts
+
+#EXTINF:-1,FOX Movies HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/142.ts
+
+#EXTINF:-1,FOX Action Movies HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/141.ts
+
+#EXTINF:-1,HBO HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/140.ts
+
+#EXTINF:-1,FOX HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/108.ts
+
+#EXTINF:-1,Amarin 34 HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/138.ts
+
+#EXTINF:-1,Eleven Sports 1 HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/120.ts
+
+#EXTINF:-1,Eleven Sports 2 HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/122.ts
+
+#EXTINF:-1,Eleven Sports 3 HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/121.ts
+
+#EXTINF:-1,Eleven Sports 4 HD
+http://209.58.177.31:8081/live/gratis/untuk_semua/119.ts
+
+#EXTINF:-1,Blue Ant Entertainment
+http://209.58.177.31:8081/live/gratis/untuk_semua/143.ts
