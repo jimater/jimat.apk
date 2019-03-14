@@ -1,9 +1,12 @@
 <ASX version="3.0" bannerbar="fixed">
-
 <ENTRY>
 <TITLE>Radio Istana FM Bojonegoro</TITLE>
 <ABSTRACT>Kamis, 20:00 WIB</ABSTRACT>
-<REF HREF="http://128.199.94.211:8000/istana" />
+<REF HREF="http://128.199.199.31:8000/istana"/>
 </ENTRY>
-
+<ENTRY>
+<TITLE>Link Baru Radio Istana FM Bojonegoro</TITLE>
+<ABSTRACT>http://128.199.199.31:8000/istana</ABSTRACT>
+<REF HREF="http://128.199.199.31:8000/istana"/>
+</ENTRY>
 </ASX>
