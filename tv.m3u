@@ -61,6 +61,16 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 091
+https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2091%20%5BHADE%5D%20%5B4095E96C%5D.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 092
+https://archive.org/download/BOR92720pSAMEHADAKU.TV/BOR-92-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 093
+https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2093%20%5BHADE%2010bit%5D%20%5BCCE41470%5D.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 094
+https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2094%20%5Bmp4%20720p%5D.mp4
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 095
+https://archive.org/download/BOR92720pSAMEHADAKU.TV/BOR-95-720p-SAMEHADAKU.TV.mkv
 #EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 096
 https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-96-720p-SAMEHADAKU.TV.mkv
 #EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 097
