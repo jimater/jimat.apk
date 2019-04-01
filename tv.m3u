@@ -61,6 +61,9 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 100
+https://archive.org/download/BOR100720pSAMEHADAKU.TV/BOR-100-720p-SAMEHADAKU.TV.mkv
+
 #EXTINF:1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
