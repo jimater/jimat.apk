@@ -61,7 +61,15 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 100
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 096
+https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-96-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 097
+https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-97-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 098
+https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-98-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 099
+https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-99-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 100
 https://archive.org/download/BOR100720pSAMEHADAKU.TV/BOR-100-720p-SAMEHADAKU.TV.mkv
 
 #EXTINF:1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOKAL",
