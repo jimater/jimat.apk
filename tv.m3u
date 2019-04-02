@@ -61,6 +61,18 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 085
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2085%20%5BHADE%5D%20%5B01CA1B88%5D.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 086
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2086%20%5BHADE%2010bit%5D%20%5B4A751C07%5D.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 087
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/BOR-87-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 088
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/BOR-88-720p-SAMEHADAKU.TV.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 089
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2089%20%5BHADE%2010bit%5D%20%5BBE85EF78%5D.mkv
+#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 090
+https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2090%20%5BHADE%5D%20%5B85CCF896%5D.mkv
 #EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 091
 https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2091%20%5BHADE%5D%20%5B4095E96C%5D.mkv
 #EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 092
