@@ -61,53 +61,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="2. LOKAL HD",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 085
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2085%20%5BHADE%5D%20%5B01CA1B88%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 086
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2086%20%5BHADE%2010bit%5D%20%5B4A751C07%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 087
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/BOR-87-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 088
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/BOR-88-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 089
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2089%20%5BHADE%2010bit%5D%20%5BBE85EF78%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 090
-https://archive.org/download/BOR87720pSAMEHADAKU.TV/oploverz%20-%20BNG%2090%20%5BHADE%5D%20%5B85CCF896%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 091
-https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2091%20%5BHADE%5D%20%5B4095E96C%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 092
-https://archive.org/download/BOR92720pSAMEHADAKU.TV/BOR-92-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 093
-https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2093%20%5BHADE%2010bit%5D%20%5BCCE41470%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 094
-https://archive.org/download/BOR92720pSAMEHADAKU.TV/oploverz%20-%20BNG%2094%20%5Bmp4%20720p%5D.mp4
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 095
-https://archive.org/download/BOR92720pSAMEHADAKU.TV/BOR-95-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 096
-https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-96-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 097
-https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-97-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 098
-https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-98-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 099
-https://archive.org/download/BOR97720pSAMEHADAKU.TV/BOR-99-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 100
-https://archive.org/download/BOR100720pSAMEHADAKU.TV/BOR-100-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 101
-https://archive.org/download/BOR101720pSAMEHADAKU.TV/BOR-101-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 102
-https://archive.org/download/BOR102720pSAMEHADAKU.TV/BOR-102-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 103
-https://archive.org/download/OploverzBNG103HADE10bit6E0F8003/oploverz%20-%20BNG%20103%20%5BHADE%2010bit%5D%20%5B6E0F8003%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 104
-https://archive.org/download/OploverzBNG104HADE98FCEF8D/oploverz%20-%20BNG%20104%20%5BHADE%5D%20%5B98FCEF8D%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 105
-https://archive.org/download/BOR105720pSAMEHADAKU.TV/BOR-105-720p-SAMEHADAKU.TV.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 106
-https://archive.org/download/BOR105720pSAMEHADAKU.TV/oploverz%20-%20BNG%20106%20%5BHADE%5D%20%5BEE5D999F%5D.mkv
-#EXTINF:2 tvg-logo="https://3.bp.blogspot.com/-xdHavezduCA/XKF4ZRhwHmI/AAAAAAAAAFc/AbBLRHVXIHojVIOEXfVdS0xzhhLgn9_5ACLcBGAs/s1600/images.jpg" group-title="BORUTO",EPISODE 107
-https://archive.org/download/BOR105720pSAMEHADAKU.TV/BOR-107-720p-SAMEHADAKU.TV.mkv
-
 #EXTINF:3 tvg-logo="https://4.bp.blogspot.com/-It2_GX_szME/XKPv7mp7OiI/AAAAAAAAAAc/iZnCWHKOPJgARyIvj5oWNtFFNHNjgqikACLcBGAs/s1600/images.jpg" group-title="SAURSEPUH",Darah Biru 01
 https://archive.org/download/SaurSepuhDarahBiru9/Saur%20Sepuh%20Darah%20Biru%201.mp4
 #EXTINF:3 tvg-logo="https://4.bp.blogspot.com/-It2_GX_szME/XKPv7mp7OiI/AAAAAAAAAAc/iZnCWHKOPJgARyIvj5oWNtFFNHNjgqikACLcBGAs/s1600/images.jpg" group-title="SAURSEPUH",Darah Biru 02
@@ -155,8 +108,6 @@ https://archive.org/download/SaurSepuhPerjalananBerdarah10_201904/Saur%20Sepuh%2
 #EXTINF:3 tvg-logo="https://4.bp.blogspot.com/-BwmUgIkyRKE/XKQf9lYAIGI/AAAAAAAAAFo/2nM06J1TQhoTOXWmQRXEvvMBqvkDoKy1gCLcBGAs/s1600/Saur-sepuh-satria" group-title="SAURSEPUH",Perjalanan Berdarah 12
 https://archive.org/download/SaurSepuhPerjalananBerdarah10_201904/Saur%20Sepuh%20Perjalanan%20Berdarah%2012%20%7B%20Akhir%20%7D.mp4
 
-#EXTINF:4 tvg-logo="https://4.bp.blogspot.com/-EVynF6u9dgY/XLxts6JoE6I/AAAAAAAAAGU/9x1XkyOGQ5UgsM3z8T06zBjGVgpB-CfCgCLcBGAs/s1600/db.jpg" group-title="FILM",Dragon Ball Super : Broly 2019
-https://archive.org/download/DBSMBr720pV2SAMEHADAKU.TV/DBSM-Br-720p%28V2%29-SAMEHADAKU.TV.mkv
 #EXTINF:4 tvg-logo="https://4.bp.blogspot.com/-gJFHc3K9A5w/XL0VKbqtSOI/AAAAAAAAAGg/gDtifSMwkPAFPo4bitVbSWuxPdYwUoY9QCLcBGAs/s1600/220px-Danur_poster.jpg" group-title="FILM",Danur
 https://archive.org/download/PengabdiSetan_201904/Danur.mp4
 #EXTINF:4 tvg-logo="https://1.bp.blogspot.com/-XciUDAdi9Ec/XL0VKUQARkI/AAAAAAAAAGk/kGbfgSv_LPEoG2e4dWVyti50zGOUSAaegCLcBGAs/s1600/pengabdi_.jpg" group-title="FILM",Pengabdi Setan
