@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:5 tvg-logo="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-128.png" group-title="5. JIMAT",Misteri Oyot Nimang
-https://youtu.be/OmpboeT5JGQ
+
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="1. LOKAL SD",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="1. LOKAL SD",CNN Indonesia
