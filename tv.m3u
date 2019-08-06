@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="1. LOKAL SD",ANTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="1. LOKAL SD",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="1. LOKAL SD",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -12,13 +12,13 @@ http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=0
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="1. LOKAL SD",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="1. LOKAL SD",METRO TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="1. LOKAL SD",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://harianriau.co/assets/berita/original/71323471190-mnc.jpg" group-title="1. LOKAL SD",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_big1.png" group-title="1. LOKAL SD",NET.
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="1. LOKAL SD",RAJAWALI TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png" group-title="1. LOKAL SD",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="1. LOKAL SD",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -31,7 +31,7 @@ http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="1. LOKAL SD",TV ONE
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="2. LOKAL HD",ANTV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="2. LOKAL HD",ANTV HD
 http://id2.indostreamingtv.com/live/tv44/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-JGWOOjFGr-Q/WrOlvbvLA0I/AAAAAAAAAWM/MGn20OKEzFYVVJ3mmN0-GXY0ypIdgc_CACK4BGAYYCw/s1600/beritasatu.jpg" group-title="2. LOKAL HD",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -41,7 +41,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="2. LOKAL HD",INDOSIAR
 http://id1.indostreamingtv.com/live/tv115/index.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="2. LOKAL HD",METROTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="2. LOKAL HD",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_big1.png" group-title="2. LOKAL HD",NET. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
@@ -131,7 +131,7 @@ http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://asset-a.grid.id/crop/0x0:0x0/700x465/photo/haifoto/original/7807_4-alasan-kamu-harus-nonton-acara-ultah-net-tv.png" group-title="LOKAL",
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="LOKAL",
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="LOKAL",
